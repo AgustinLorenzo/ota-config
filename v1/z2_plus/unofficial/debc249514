@@ -47,6 +47,22 @@
       "romtype": "unofficial", 
       "url": "https://ota.zuk.qnsystem.com/download/z2_plus/lineage-15.1-20180402-UNOFFICIAL-z2_plus.zip", 
       "version": "15.1"
+    },
+    {
+      "datetime": 1522955829, 
+      "filename": "lineage-15.1-20180405-UNOFFICIAL-z2_plus.zip", 
+      "id": "cab0bcc542e29fb44db9d2f3b2004c50de045b5f27672c589a4ca4680162e7fd",
+      "romtype": "unofficial", 
+      "url": "https://ota.zuk.qnsystem.com/download/z2_plus/lineage-15.1-20180405-UNOFFICIAL-z2_plus.zip", 
+      "version": "15.1"
+    },
+    {
+      "datetime": 1523843923, 
+      "filename": "lineage-15.1-20180416-UNOFFICIAL-z2_plus.zip", 
+      "id": "35735b7f135d6e7ed89cbafe5473e3995caa5f07c90f93a82418f77ec5b7c853",
+      "romtype": "unofficial", 
+      "url": "https://ota.zuk.qnsystem.com/download/z2_plus/lineage-15.1-20180416-UNOFFICIAL-z2_plus.zip", 
+      "version": "15.1"
     }
   ]
 }
