@@ -77,6 +77,33 @@
       "size": 576674576, 
       "url": "https://ota.zuk.qnsystem.com/download/z2_row/lineage-15.1-20180707-UNOFFICIAL-z2_row.zip", 
       "version": "15.1"
+    },
+    {
+      "datetime": 1532707123, 
+      "filename": "lineage-15.1-20180727-UNOFFICIAL-z2_row.zip", 
+      "id": "3b2b3f01ce82fa9a841b85a4d4ca4da9447177bc83bed7c850a1d2062dbb227f",
+      "romtype": "unofficial",
+      "size": 599142043, 
+      "url": "https://ota.zuk.qnsystem.com/download/z2_row/lineage-15.1-20180727-UNOFFICIAL-z2_row.zip", 
+      "version": "15.1"
+    },
+    {
+      "datetime": 1535370907, 
+      "filename": "lineage-15.1-20180827-UNOFFICIAL-z2_row.zip", 
+      "id": "ca6781863f53af0b6851b66a5d85d562fd4b1c541d9dff43dd58231f48100197",
+      "romtype": "unofficial",
+      "size": 604079740, 
+      "url": "https://ota.zuk.qnsystem.com/download/z2_row/lineage-15.1-20180827-UNOFFICIAL-z2_row.zip", 
+      "version": "15.1"
+    },
+    {
+      "datetime": 1540674371, 
+      "filename": "lineage-15.1-20181027-UNOFFICIAL-z2_row.zip", 
+      "id": "985e8bb7bf9f7f2962298564854e41a5e1fb00bedf9e8168313131b646d11eeb",
+      "romtype": "unofficial",
+      "size": 605932836, 
+      "url": "https://ota.zuk.qnsystem.com/download/z2_row/lineage-15.1-20181027-UNOFFICIAL-z2_row.zip", 
+      "version": "15.1"
     }
   ]
 }

@@ -118,6 +118,42 @@
       "size": 576647637, 
       "url": "https://ota.zuk.qnsystem.com/download/z2_plus/lineage-15.1-20180628-UNOFFICIAL-z2_plus.zip", 
       "version": "15.1"
+    },
+    {
+      "datetime": 1532693070, 
+      "filename": "lineage-15.1-20180727-UNOFFICIAL-z2_plus.zip", 
+      "id": "35d5aa39bd54caaab86a068fe0144c98b9c917a59d11ae82ad7c6e1fea68362c",
+      "romtype": "unofficial",
+      "size": 597779661, 
+      "url": "https://ota.zuk.qnsystem.com/download/z2_plus/lineage-15.1-20180727-UNOFFICIAL-z2_plus.zip", 
+      "version": "15.1"
+    },
+    {
+      "datetime": 1535301308, 
+      "filename": "lineage-15.1-20180826-UNOFFICIAL-z2_plus.zip", 
+      "id": "3b32e839cbc49fe73814d89d671e8948ee53cc8c5422d0d1fe76129ccfb0372f",
+      "romtype": "unofficial",
+      "size": 603031105, 
+      "url": "https://ota.zuk.qnsystem.com/download/z2_plus/lineage-15.1-20180826-UNOFFICIAL-z2_plus.zip", 
+      "version": "15.1"
+    },
+    {
+      "datetime": 1535670978, 
+      "filename": "lineage-15.1-20180830-UNOFFICIAL-z2_plus.zip", 
+      "id": "8d4d25c3d70e7ac7024850a78ef994f7f20cf5cba01077af271a79db3ea58b8e",
+      "romtype": "unofficial",
+      "size": 603072816, 
+      "url": "https://ota.zuk.qnsystem.com/download/z2_plus/lineage-15.1-20180830-UNOFFICIAL-z2_plus.zip", 
+      "version": "15.1"
+    },
+    {
+      "datetime": 1540086694, 
+      "filename": "lineage-15.1-20181021-UNOFFICIAL-z2_plus.zip", 
+      "id": "39bdac6220f3b71d1ad6800ee9743cb250c700033423c92fbfc6881a00ae0cb0",
+      "romtype": "unofficial",
+      "size": 604904797, 
+      "url": "https://ota.zuk.qnsystem.com/download/z2_plus/lineage-15.1-20181021-UNOFFICIAL-z2_plus.zip", 
+      "version": "15.1"
     }
   ]
 }
